@@ -11,10 +11,10 @@ Aufbau einer isolierten, sicheren und skalierbaren IT-Infrastruktur auf Basis vo
 - **Containerization & Monitoring:** Ubuntu Server, Docker, Zabbix
 - **Backup & Disaster Recovery:** Proxmox Backup-Konzepte (Live-Snapshots)
 
-## 🗺️ Netzwerkarchitektur
+# Netzwerkarchitektur
 *WIRD EINEGFÜGT IM VERLAUF
 
-## 🚀 Projektfortschritt
+# Projektfortschritt
 - [x] Hardware-Setup & Proxmox Installation
 - [ ] Isolierter virtueller Switch (Air-Gap)
 - [ ] pfSense Firewall & Routing
